@@ -23,6 +23,7 @@ Please feel free to **pull requests**.
 
 ## Book
 1. [Reinforcement Learning: An Introduction](http://incompleteideas.net/sutton/book/the-book.html)
+2. [Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf)
 	
 ### Lectures
 
