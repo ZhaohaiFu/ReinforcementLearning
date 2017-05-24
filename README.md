@@ -25,6 +25,7 @@ Reinforcement Learning (RL) is concerned with goal-directed learning and decisio
 * [Deep Reinforcement Learning with Neon - Part II](https://www.nervanasys.com/deep-reinforcement-learning-with-neon/)
 
 ## Paper
+* [DEEP REINFORCEMENT LEARNING: AN OVERVIEW](https://arxiv.org/pdf/1701.07274.pdf/) :star2:
 	
 ## Lectures
 * [Deep Reinforcement Learning](http://techtalks.tv/talks/deep-reinforcement-learning/62360/) **ICML 2016 Tutorial** (David Silver)
@@ -34,7 +35,8 @@ Reinforcement Learning (RL) is concerned with goal-directed learning and decisio
 
 * [Deep Learning](http://www.deeplearningbook.org)
 * [Reinforcement Learning: An Introduction](http://people.inf.elte.hu/lorincz/Files/RL_2006/SuttonBook.pdf) (Sutton & Barto)
-* [Reinforcement Learning: An Introduction](http://incompleteideas.net/sutton/book/bookdraft2016sep.pdf) Second edition, in progress (Sutton & Barto)
+* [Reinforcement Learning: An Introduction
+](http://incompleteideas.net/sutton/book/bookdraft2016sep.pdf) Second edition, in progress (Sutton & Barto)
 
 ## Application
 
