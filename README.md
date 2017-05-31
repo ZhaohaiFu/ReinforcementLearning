@@ -27,6 +27,7 @@ Reinforcement Learning (RL) is concerned with goal-directed learning and decisio
 * [Deep Reinforcement Learning](http://techtalks.tv/talks/deep-reinforcement-learning/62360/) **ICML 2016 Tutorial** (David Silver)
 * [Deep Reinforcement Learning](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Resources.html) ICLR 2015 Invited Talk (David Silver)
 * [AlphaGo](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Resources_files/AlphaGo_IJCAI.pdf) IJCAI 2016 Invited Talk (David Silver)
+* [Deep Reinforcement Learning Workshop](http://rll.berkeley.edu/deeprlworkshop/) NIPS 2015
 
 ## Courses
 * [Reinforcement Learning Course](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) (David Silver)
