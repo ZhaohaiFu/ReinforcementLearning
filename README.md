@@ -25,8 +25,9 @@ Reinforcement Learning (RL) is concerned with goal-directed learning and decisio
 * [Deep Reinforcement Learning with Neon - Part II](https://www.nervanasys.com/deep-reinforcement-learning-with-neon/)
 
 ## Paper
-* [DEEP REINFORCEMENT LEARNING: AN OVERVIEW](https://arxiv.org/pdf/1701.07274.pdf/) :star2:
-	
+* [deep-reinforcement-learning-papers](https://github.com/junhyukoh/deep-reinforcement-learning-papers#discrete-control) A list of **recent papers** regarding deep reinforcement learning. 
+
+
 ## Lectures
 * [Deep Reinforcement Learning](http://techtalks.tv/talks/deep-reinforcement-learning/62360/) **ICML 2016 Tutorial** (David Silver)
 * [Reinforcement Learning Course](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) (David Silver)
